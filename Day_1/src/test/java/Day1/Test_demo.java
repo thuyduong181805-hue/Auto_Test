@@ -21,6 +21,7 @@ public class Test_demo {
         WebElement buttonLogin = driver.findElement(By.id("login-button"));
         buttonLogin.click();
         driver.quit();
+
     }
 
 }
